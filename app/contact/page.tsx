@@ -25,8 +25,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone (Canada)",
-    value: "+1 (437) 214-4495",
-    href: "tel:+14372144495",
+    value: "+1 (587) 985-8081",
+    href: "tel:+15879858081",
   },
   {
     icon: Clock,
